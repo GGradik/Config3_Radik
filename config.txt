@@ -1,0 +1,13 @@
+{
+    server_name := [[MyServer]];
+    port := 8080;
+    gg := ^(10 5 +);
+    ogo := ^(1 ord());
+}
+
+{
+    sdsd := [[hahah]];
+    BOB := 808;
+    g14 := ^(10 5 +);
+    ogo := ^(11 ord());
+}
